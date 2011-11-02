@@ -1,0 +1,7 @@
+# Ignorando coisas do STS/Eclipse
+.classpath
+.target
+/target/**/*
+.project
+.settings
+*.jar
